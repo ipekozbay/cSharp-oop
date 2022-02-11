@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "640b0dd7-75d9-410a-ac48-5d3c0a489d4e": {
+      "ProjectGuid": "640b0dd7-75d9-410a-ac48-5d3c0a489d4e",
+      "DisplayName": "Methods",
+      "ColorIndex": 0
+    },
+    "8624ceb7-9bcd-4c00-8fd2-6d4d7c7abfb5": {
+      "ProjectGuid": "8624ceb7-9bcd-4c00-8fd2-6d4d7c7abfb5",
+      "DisplayName": "Math",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
