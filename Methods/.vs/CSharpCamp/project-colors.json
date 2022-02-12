@@ -20,7 +20,12 @@
       "ProjectGuid": "e529e608-ddec-4e37-bdd8-367aaf845d13",
       "DisplayName": "Collections",
       "ColorIndex": 3
+    },
+    "90b43383-fffc-41cd-b5ea-84a240bfefa2": {
+      "ProjectGuid": "90b43383-fffc-41cd-b5ea-84a240bfefa2",
+      "DisplayName": "GenericIntro",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
