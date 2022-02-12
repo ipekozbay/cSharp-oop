@@ -10,7 +10,17 @@
       "ProjectGuid": "8624ceb7-9bcd-4c00-8fd2-6d4d7c7abfb5",
       "DisplayName": "Math",
       "ColorIndex": 1
+    },
+    "f2fdd425-a81b-423f-a71e-88842fbc6607": {
+      "ProjectGuid": "f2fdd425-a81b-423f-a71e-88842fbc6607",
+      "DisplayName": "OOP1",
+      "ColorIndex": 2
+    },
+    "e529e608-ddec-4e37-bdd8-367aaf845d13": {
+      "ProjectGuid": "e529e608-ddec-4e37-bdd8-367aaf845d13",
+      "DisplayName": "Collections",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
