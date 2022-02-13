@@ -1,0 +1,8 @@
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\bin\Debug\OOP2.exe.config
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\bin\Debug\OOP2.exe
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\bin\Debug\OOP2.pdb
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\obj\Debug\OOP2.csproj.AssemblyReference.cache
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\obj\Debug\OOP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\obj\Debug\OOP2.csproj.CoreCompileInputs.cache
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\obj\Debug\OOP2.exe
+C:\Users\ozbay\Desktop\cSharpCamp\OOP2\obj\Debug\OOP2.pdb
