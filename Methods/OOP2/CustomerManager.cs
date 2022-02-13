@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP1
+namespace OOP2
 {
-    internal class Program
+    internal class CustomerManager
     {
-        static void Main(string[] args)
+        public void Add(Customer customer)
         {
+
         }
     }
 }
